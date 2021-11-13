@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">q2CA</string>
+    <string name="s_sharanya_bharghavi">S Sharanya Bharghavi</string>
+    <string name="que_2">Ans 2</string>
+    <string name="radio_button">Radio Button</string>
+    <string name="checkbox">Check Box</string>
+    <string name="app_by_s_sharanya_bharghavi">App by S Sharanya Bharghavi</string>
+    <string name="this_is_button">This is Button</string>
+    <string name="this_is_edittext_enter_anything">This is EditText. Enter Anything</string>
+    <string name="app_by_sharanya">App by Sharanya</string>
+</resources>
